@@ -1,0 +1,411 @@
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .banner-section .banner-inner h2{
+        font-size: 39px;
+        font-weight: 800;
+        line-height: 49px;
+    }
+    .banner-section .banner-inner{
+        padding: 0px 0px;
+    }
+    .highlight-section .hibg {
+        width: 300px;
+        position: absolute;
+        top: -133px;
+        left: 7px;
+    }
+    .highlight-section .highlight-inner h3{
+        font-size: 46px;
+        font-weight: 500;
+        line-height: 56px;
+        margin-top: 55px;
+    }
+    .feature-section .feature-inner h2 {
+        font-size: 34px;
+        font-weight: 800;
+        color: rgb(0, 0, 0);
+        line-height: 44px;
+    }
+    .feature-section .feature-inner p {
+        font-size: 11px;
+        color: rgb(0, 0, 0);
+        line-height: 21px;
+        margin-bottom: 72px;
+    }
+    .feature-section .feature-inner h4 strong {
+        font-size: 92px;
+        line-height: 0.2;
+    }
+    .clinte {
+        width: 100%;
+        padding: 0px;
+    }
+    .intro-qoute-section {
+        padding: 0px 0px;
+    }
+    .intro-qoute-section .pic-qoute {
+        padding: 69px 0px;
+    }
+    .intro-qoute-section .pic-qoute p {
+        font-size: 11px;
+        line-height: 21px;
+        margin-left: 75px;
+    }
+    .intro-qoute-section .pic-qoute h6 {
+        font-size: 13px;
+        line-height: 23px;
+        margin-left: 69px;
+    }
+    .intro-qoute-section .text-qoute h2 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-top: 39px;
+    }
+    .effciancy-inner h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .effciancy-inner p {
+        font-size: 8.5px;
+        line-height: 18px;
+        margin: 25px 0px;
+    }
+    .effciancy-inner h6 {
+        font-size: 10px;
+        margin-top: 11px;
+    }
+    .effciancy-inner .btn-info {
+        padding: 13px 24px;
+        margin-top: 22px;
+    }
+    .design-section {
+        padding: 48px 0px;
+    }
+    .design-section .design-inner-text p {
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .inspirational-section {
+        padding: 32px 0px;
+    }
+    .testi-inner {
+        padding: 2px 20px 10px;
+    }
+    .testi-inner .text-inner h4 {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .footer-section .faq-section {
+        margin-bottom: 29px;
+    }
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    .banner-section .banner-inner h2{
+        font-size: 42px;
+        font-weight: 800;
+        line-height: 52px;
+        margin-right: 27px;
+    }
+    .banner-section .banner-inner{
+        padding: 0px 0px;
+    }
+    .banner-section .banner-inner .btn-info{
+        margin-right: 27px;
+    }
+    .highlight-section .hibg {
+        width: 300px;
+        position: absolute;
+        top: -133px;
+        left: 7px;
+    }
+    .highlight-section .highlight-inner h3{
+        font-size: 31px;
+        font-weight: 500;
+        line-height: 41px;
+        margin-top: 55px;
+    }
+    .feature-section .feature-inner h2 {
+        font-size: 18px;
+        font-weight: 800;
+        color: rgb(0, 0, 0);
+        line-height: 28px;
+    }
+    .feature-section .feature-inner p {
+        font-size: 7px;
+        color: rgb(0, 0, 0);
+        line-height: 17px;
+        margin-bottom: 43px;
+    }
+    .feature-section .feature-inner h4 strong {
+        font-size: 48px;
+        line-height: 0.2;
+    }
+    .feature-section .feature-inner h4 span {
+        font-size: 13px;
+        color: rgb(0, 0, 0);
+        line-height: 1.625;
+    }
+    .clinte {
+        width: 100%;
+        padding: 0px;
+    }
+    .intro-qoute-section {
+        padding: 0px 0px;
+    }
+    .intro-qoute-section .pic-qoute {
+        padding: 69px 0px;
+    }
+    .intro-qoute-section .pic-qoute p {
+        font-size: 13px;
+        line-height: 23px;
+        margin-left: 144px;
+    }
+    .intro-qoute-section .pic-qoute h6 {
+        font-size: 13px;
+        line-height: 23px;
+        margin-left: 151px;
+    }
+    .intro-qoute-section .text-qoute h2 {
+        font-size: 33px;
+        line-height: 43px;
+        margin-top: 39px;
+    }
+    .effciancy-inner h2 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .effciancy-inner p {
+        font-size: 15.5px;
+        line-height: 25px;
+        margin: 25px 0px;
+    }
+    .effciancy-inner h6 {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+    .effciancy-inner .btn-info {
+        padding: 13px 31px;
+        margin-top: 22px;
+    }
+    .design-section {
+        padding: 48px 0px;
+    }
+    .design-section .design-inner p {
+        font-size: 10px;
+        line-height: 26px;
+    }
+    .design-section .design-inner h2 {
+        font-size: 36px;
+        font-weight: 800;
+        color: rgb(0, 0, 0);
+        line-height: 46px;
+    }
+    .design-section .design-inner-text p {
+        font-size: 7px;
+        line-height: 17px;
+    }
+    .inspirational-section {
+        padding: 32px 0px;
+    }
+    .testi-inner {
+        padding: 2px 20px 10px;
+    }
+    .design-section .design-inner-text h4 {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: -8px;
+    }
+    .inspirational-section .text h2 {
+        font-size: 43px;
+        line-height: 53px;
+    }
+    .testi-inner .text-inner h4 {
+        font-size: 29px;
+        line-height: 39px;
+    }
+    .footer-section .faq-section {
+        padding: 0px;
+    }
+    .footer-section .faq-section {
+        margin-bottom: -99px;
+    }
+    .footer-section .faq-section .text {
+        padding: 40px 0px 0px;
+    }
+    .footer-section .faq-section .faq-inner {
+        width: 100%;
+        padding: 30px 0px 80px;
+    }
+    .footer-section .faq-section .text h2 {
+        font-size: 31px;
+        line-height: 41px;
+    }
+    .footer-section .faq-section .faq-inner .btn-link {
+        font-size: 14px;
+    }
+    .footer-section .footer-text p{
+        margin-top: 10px;
+    }
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .banner-section .banner-inner h2{
+        font-size: 27px;
+        font-weight: 800;
+        line-height: 37px;
+        margin-right: 27px;
+    }
+    .banner-section .banner-inner{
+        padding: 0px 0px;
+    }
+    .banner-section .banner-inner .btn-info{
+        margin-right: 27px;
+    }
+    .highlight-section .highlight-inner h3 {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 35px;
+    }
+    .highlight-section .hibg {
+        width: 300px;
+        position: absolute;
+        top: -114px;
+        left: 7px;
+    }
+    .highlight-section .highlight-inner h3{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 30px;
+        margin-top: 55px;
+    }
+    .feature-section .feature-inner h2 {
+        font-size: 8px;
+        font-weight: 800;
+        color: rgb(0, 0, 0);
+        line-height: 18px; 
+    }
+    .feature-section .feature-inner p {
+        font-size: 14px;
+        color: rgb(0, 0, 0);
+        /* line-height: 25px; */
+        margin-bottom: 43px;
+    }
+    .feature-section .feature-inner h4 strong {
+        font-size: 33px;
+        line-height: 0.2;
+    }
+    .feature-section .feature-inner h4 span {
+        font-size: 4px;
+        color: rgb(0, 0, 0);
+        line-height: 1.625;
+    }
+    .clinte {
+        width: 100%;
+        padding: 0px;
+    }
+    .intro-qoute-section {
+        padding: 0px 0px;
+    }
+    .intro-qoute-section .pic-qoute {
+        padding: 69px 0px;
+    }
+    .intro-qoute-section .pic-qoute p {
+        font-size: 13px;
+        line-height: 23px;
+        margin-left: 76px;
+    }
+    .intro-qoute-section .pic-qoute h6 {
+        font-size: 13px;
+        line-height: 23px;
+        margin-left: 85px;
+    }
+    .intro-qoute-section .text-qoute h2 {
+        font-size: 26px;
+        font-weight: 800;
+        color: rgb(0, 0, 0);
+        line-height: 36px;
+        margin-top: 39px;
+    }
+    .effciancy-inner h2 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .effciancy-inner p {
+        font-size: 7.5px;
+        line-height: 16px;
+        margin: 25px 0px;
+    }
+    .effciancy-inner h6 {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+    .effciancy-inner .btn-info {
+        padding: 13px 31px;
+        margin-top: 22px;
+    }
+    .design-section {
+        padding: 48px 0px;
+    }
+    .design-section .design-inner p {
+        font-size: 7px;
+        line-height: 17px;
+    }
+    .design-section .design-inner h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .design-section .design-inner-text p {
+        font-size: 4px;
+        line-height: 14px;
+    }
+    .inspirational-section {
+        padding: 32px 0px;
+    }
+    .testi-inner {
+        padding: 2px 20px 10px;
+    }
+    .design-section .design-inner-text h4 {
+        font-size: 12px;
+        line-height: 30px;
+        margin-top: 0px;
+    }
+    .inspirational-section .text h2 {
+        font-size: 29px;
+        line-height: 38px;
+    }
+    .footer-section .faq-section {
+        padding: 0px;
+    }
+    .footer-section .faq-section {
+        margin-bottom: -99px;
+    }
+    .footer-section .faq-section .text {
+        padding: 40px 0px 0px;
+    }
+    .footer-section .faq-section .faq-inner {
+        width: 100%;
+        padding: 30px 0px 80px;
+    }
+    .footer-section .faq-section .text h2 {
+        font-size: 31px;
+        line-height: 41px;
+    }
+    .footer-section .faq-section .faq-inner .btn-link {
+        font-size: 14px;
+    }
+}
